@@ -21,6 +21,7 @@ public class TicTacToe extends JFrame implements ActionListener {
 	{
 		Object src = e.getSource();
 		
+		action:
 		for (int y = 0; y < dim; y++)
 		{
 			for (int x = 0; x < dim; x++)
@@ -42,6 +43,8 @@ public class TicTacToe extends JFrame implements ActionListener {
 					}
 					else
 						JOptionPane.showMessageDialog(null,  "The tile is not empty.");
+					
+					break action;
 				}
 			}
 		}
