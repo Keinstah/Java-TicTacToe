@@ -42,7 +42,7 @@ This is a simple Tic Tac Toe game implemented in Java using Swing. The game allo
   - Players are prompted to play again after the game concludes.
 
 ## Author
-- [Your Name] (replace with your name)
+- [Kevin King Agatep]
 
 ## License
 This project is open-source and available under the MIT License.
