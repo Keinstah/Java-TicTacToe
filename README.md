@@ -16,13 +16,13 @@ This is a simple Tic Tac Toe game implemented in Java using Swing. The game allo
 
 ## How to Run
 1. **Compile the Code**:
-   \`\`\`bash
+   ```bash
    javac TicTacToe.java
-   \`\`\`
+   ```
 2. **Run the Program**:
-   \`\`\`bash
+   ```bash
    java TicTacToe
-   \`\`\`
+   ```
 3. The game window will appear. Click on the tiles to start playing.
 
 ## How to Play
